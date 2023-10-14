@@ -1,2 +1,2 @@
-# caram-board-design
-Caram boeard design with html and css
+# carromm-board-design
+Carrom boeard design with raw html and css
